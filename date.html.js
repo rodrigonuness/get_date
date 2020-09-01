@@ -57,5 +57,5 @@ function getDa(){
 
 
 creator: https://www.github.com/rodrigonuness/
-project: https://www.github.com/rodrigonuness/time
+project: https://www.github.com/rodrigonuness/get_date
 */
