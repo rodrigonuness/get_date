@@ -46,16 +46,3 @@ function getDa(){
     x.innerHTML = "Today is " + varDay + ", " + varMonth + "/" + varDate + "/" + varYear + "<br>" + varHour + ":" + varMinu + ":" + varSec
     setTimeout("getDa()",1000)
 }
-
-
-
-   
-
-
-
-/*
-
-
-creator: https://www.github.com/rodrigonuness/
-project: https://www.github.com/rodrigonuness/get_date
-*/
